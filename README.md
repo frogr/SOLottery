@@ -1,0 +1,2 @@
+# SOLottery
+Simple Solana Lottery
